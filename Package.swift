@@ -33,9 +33,9 @@
                  .process("ja.lproj"),
                  .process("AbstractPopover.storyboard"),
                  .process("ColumnStringPickerPopover.storyboard"),
-                 .process("Base.lproj/CountdownPickerPopover.storyboard"),
-                 .process("Base.lproj/DatePickerPopover.storyboard"),
-                 .process("Base.lproj/StringPickerPopover.storyboard"),
+                 .process("CountdownPickerPopover.storyboard"),
+                 .process("DatePickerPopover.storyboard"),
+                 .process("StringPickerPopover.storyboard"),
              ]),
      ],
      swiftLanguageVersions: [.v5]
